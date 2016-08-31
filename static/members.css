@@ -79,7 +79,7 @@ p {
 }
 
 .logo-img {
-	content: url(../img/logo.png);
+	content: url(img/logo.png);
 	position: absolute;
 	z-index: 2000;
 	top: 10%;
@@ -90,7 +90,7 @@ p {
 }
 
 .sec-logo {
-	content: url(../img/logo-line.png);
+	content: url(img/logo-line.png);
 	position: fixed;
 	top: 0;
 	left: 0;
@@ -100,7 +100,7 @@ p {
 }
 
 #jumbo-img {
-	content: url(../img/jumbo.png);
+	content: url(img/jumbo.png);
 	width: 100%;
 }
 
@@ -266,7 +266,7 @@ footer.page-footer{
 	height: 32px;
 	float: left;
 	margin-right: 10px;
-	background-image: url(../img/facebook_32.png);
+	background-image: url(img/facebook_32.png);
 	text-indent: -9999px;
 }
 
@@ -276,7 +276,7 @@ footer.page-footer{
 	height: 32px;
 	float: left;
 	margin-right: 10px;
-	background-image: url(../img/twitter_32.png);
+	background-image: url(img/twitter_32.png);
 	text-indent: -9999px;
 }
 
@@ -286,7 +286,7 @@ footer.page-footer{
 	height: 32px;
 	float: left;
 	margin-right: 10px;
-	background-image: url(../img/yelp_32.png);
+	background-image: url(img/yelp_32.png);
 	text-indent: -9999px;
 }
 
