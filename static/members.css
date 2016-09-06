@@ -160,6 +160,10 @@ p {
 	margin-left: 0;
 }
 
+#event_cal {
+	margin-left: 10%;
+}
+
 .card {
 	text-align: center;
 	background-color: RGBA(94, 138, 196, 1);
@@ -320,25 +324,13 @@ footer.page-footer{
 	text-indent: -9999px;
 }
 
-#scroll-top {
-	margin: 10px;
-	font-size: 24px;
-	display: block;
-	width: 32px;
-	height: 32px;
-	border-radius: 4px;
-	background-color: #666;
-	float: right;
-	text-align: center;
-}
-
 @media only screen and (max-width: 990px) {
 
 	 .event-card {
 		 width: 250px;
 	 }
 
-	 iframe {
+	 #home_cal {
 		 width: 200px;
 	 }
 }
